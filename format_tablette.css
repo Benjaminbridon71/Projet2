@@ -1,0 +1,228 @@
+﻿body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 1000px;
+    text-orientation: initial;
+}
+#conteneur1 {
+    order: 2;
+    width: 100%;
+}
+
+#conteneur2 {
+    order: 1;
+    width: 100%;
+}
+    #conteneur2 p {
+        font-size: 1.3em;
+    }
+
+#conteneur1 p {
+    font-size: 1.3em;
+}
+.titre1 {
+    width: 100%;
+}
+.titre2 {
+    margin-left: 20px;
+    margin-top: 22px;
+}
+#photo {
+    display: none;
+}
+
+#etudiant {
+    margin-left: 10%;
+    width: 1000px;
+}
+
+#formation {
+    margin-left: 20px;
+    width: 980px;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+#dateformation {
+    display: contents;
+}
+
+#nom_formation {
+    display: contents;
+}
+    #formation h4 {
+        font-size: 20px;
+    }
+
+.date1 {
+    margin-top: 22px;
+    margin-bottom: 0px;
+    width: 980px;
+}
+
+.date2 {
+    margin-top: 22px;
+    margin-bottom: 0px;
+    width: 980px;
+}
+
+.date3 {
+    margin-top: 22px;
+    margin-bottom: 0px;
+    width: 980px;
+}
+
+#dateformation .date1 {
+    order: 1;
+    width: 980px;
+}
+
+#dateformation .date2 {
+    order: 3;
+    width: 980px;
+}
+
+#dateformation .date3 {
+    order: 5;
+    width: 980px;
+}
+
+#formation1 {
+    order: 2;
+    margin-top: 0px;
+    width: 980px;
+}
+
+#formation2 {
+    order: 4;
+    width: 980px;
+}
+
+#formation3 {
+    order: 6;
+    width: 80%;
+}
+
+#formation1 h3 {
+    margin-top: 10px;
+    width: 980px;
+}
+
+#formation2 h3 {
+    margin-top: 10px;
+    width: 980px;
+}
+
+#formation3 h3 {
+    margin-top: 10px;
+    width: 980px;
+}
+
+#dateformation {
+    display: contents;
+}
+
+#nom_formation {
+    display: contents;
+}
+
+#experience {
+    margin-left: 20px;
+    width: 980px;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+    #experience h3 {
+        margin-top: 10px;
+    }
+
+    #experience h4 {
+        font-size: 20px;
+    }
+
+#date-experience {
+    display: contents;
+}
+
+#lieu-experience {
+    display: contents;
+}
+
+.experience1 {
+    order: 1;
+    margin-bottom: 0px;
+    margin-top: 22px;
+    width: 980px;
+}
+
+.experience2 {
+    order: 3;
+    margin-bottom: 0px;
+    margin-top: 22px;
+    width: 980px;
+}
+
+.experience3 {
+    order: 5;
+    margin-bottom: 0px;
+    margin-top: 22px;
+    width: 980px;
+}
+
+#lieu1 {
+    order: 2;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    width: 980px;
+}
+
+#lieu2 {
+    order: 4;
+    margin-bottom: 10px;
+    width: 980px;
+}
+
+#lieu3 {
+    order: 6;
+    width: 980px;
+}
+
+#propo {
+    height: auto;
+    width: 100%;
+}
+
+#contact {
+    height: auto;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+#reco {
+    margin-left: 0px;
+    width: 100%;
+}
+
+#loisir {
+    width: 100%;
+}
+
+#activ {
+    padding-left: 370px;
+    height: 80px;
+}
+
+    #activ i {
+        padding-right: 35px;
+    }
+#source1 {
+    margin-left: 20px;
+}
+
+
+#propo p {
+    padding-top: 0px;
+}

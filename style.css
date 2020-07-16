@@ -1,0 +1,448 @@
+﻿body {
+    display: flex;
+    width: 1100px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#conteneur1 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    background-color: aqua;
+    flex-wrap: wrap;
+    width: 360px;
+}
+
+#photo {
+    height: 320px;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: groove;
+    margin-left: 75px;
+    margin-top: 40px;
+}
+
+#contact {
+    height: 280px;
+}
+
+    #contact h3 {
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+
+    #contact p,
+    #contact a {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    #contact h3,
+    #contact p,
+    #contact a {
+        display: flex;
+        flex-direction: column;
+        padding-left: 40px;
+    }
+
+    #contact a {
+        color: #000000;
+        text-decoration: none;
+    }
+
+        #contact a:hover {
+            color: white;
+            text-decoration: underline;
+        }
+
+#propo {
+    height: 950px;
+}
+
+    #propo p {
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 20px;
+        text-align: justify;
+    }
+
+#loisir {
+    height: 205px;
+}
+
+#activ {
+    padding-top: 30px;
+    padding-left: 70px;
+}
+
+    #activ i {
+        padding-right: 15px;
+    }
+
+.fa-headphones {
+    color: white;
+}
+
+.fa-tv-alt {
+    color: white;
+}
+
+.fa-gamepad-alt {
+    color: white;
+}
+
+.fa-biking {
+    color: white;
+}
+
+.titre1 {
+    color: aqua;
+    background-color: black;
+    text-align: center;
+    height: 50px;
+}
+
+    .titre1 h2 {
+        margin-bottom: 20px;
+        margin-top: 10px;
+    }
+
+#conteneur2 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    flex-wrap: wrap;
+    width: 700px;
+}
+
+.titre2 {
+    color: black;
+    margin-left: 70px;
+}
+
+* {
+    font-family: Verdana,Arial,Arial Black,Comic Sans MS,Courier New;
+}
+
+
+#etudiant {
+    margin-left: 70px;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+
+    #etudiant p {
+        margin-bottom: 5px;
+        margin-top: 0px;
+        font-size: 26px;
+        font-weight: bold;
+    }
+
+#nom1 {
+    color: aqua;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+}
+
+#nom2 {
+    color: black;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 75px;
+}
+
+#metier {
+    border-bottom: solid 2px aqua;
+}
+
+.fa-graduation-cap {
+    color: aqua;
+    margin-right: 25px;
+}
+
+
+#formation {
+    display: flex;
+    align-items: flex-start;
+    border-top: solid 3px aqua;
+    margin-left: 60px;
+    width: 640px;
+}
+
+
+
+#dateformation {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: flex-start;
+    width: 210px;
+}
+
+.date1 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 42px;
+    margin-bottom: 120px;
+}
+
+    .date1 p {
+        margin-bottom: 2px;
+        margin-top: 2px;
+    }
+
+.date2 {
+    margin-bottom: 210px;
+}
+
+    .date2 p {
+        margin-bottom: 2px;
+        margin-top: 2px;
+    }
+
+.date3 p {
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+#nom_formation {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    margin-bottom: 50px;
+}
+
+#formation1 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 400px;
+    margin-top: 0px;
+}
+
+    #formation1 h3 {
+        margin-top: 42px;
+        margin-bottom: 5px;
+    }
+
+    #formation1 p {
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+
+    #formation1 h4 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+#formation2 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 400px;
+}
+
+    #formation2 h3 {
+        margin-top: 42px;
+        margin-bottom: 5px;
+    }
+
+    #formation2 p {
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+
+    #formation2 h4 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+#formation3 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 400px;
+}
+
+    #formation3 h3 {
+        margin-top: 42px;
+        margin-bottom: 5px;
+    }
+
+    #formation3 p {
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+
+    #formation3 h4 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+.fa-briefcase {
+    color: aqua;
+    margin-right: 25px;
+}
+
+#experience {
+    display: flex;
+    align-items: flex-start;
+    border-top: solid 3px aqua;
+    margin-left: 60px;
+    width: 640px;
+}
+
+#date-experience {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: flex-start;
+    width: 210px;
+}
+
+.experience1 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 42px;
+    margin-bottom: 95px;
+}
+
+    .experience1 p {
+        margin-top: 2px;
+        margin-bottom: 2px;
+    }
+
+.experience2 {
+    margin-bottom: 55px;
+}
+
+    .experience2 p {
+        margin-top: 2px;
+        margin-bottom: 2px;
+    }
+
+.experience3 p {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+#lieu-experience {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    margin-bottom: 50px;
+    width: 390px;
+}
+
+#lieu1 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+    #lieu1 h3 {
+        margin-top: 42px;
+        margin-bottom: 5px;
+    }
+
+    #lieu1 h4 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    #lieu1 p {
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+
+#lieu2 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+    #lieu2 h3 {
+        margin-top: 42px;
+        margin-bottom: 5px;
+    }
+
+    #lieu2 h4 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    #lieu2 p {
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+
+#lieu3 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+    #lieu3 h3 {
+        margin-top: 42px;
+        margin-bottom: 5px;
+    }
+
+    #lieu3 h4 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    #lieu3 p {
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+
+.fa-pencil-alt {
+    color: aqua;
+    margin-right: 25px;
+}
+
+#source1 {
+    margin-right: 50px;
+    margin-top: 15px;
+    margin-right: 180px;
+}
+
+#source2 {
+    margin-top: 15px;
+}
+
+#reco p {
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
+
+#reco {
+    border-top: solid 3px aqua;
+    margin-left: 70px;
+    height: 200px;
+    display: flex;
+}
+
+.ville {
+    margin-left: 20px;
+}
+
+.fonct {
+    margin-left: 20px;
+}
+
+.fa-xs {
+    font-size: .75em;
+    margin-right: 2px;
+}
