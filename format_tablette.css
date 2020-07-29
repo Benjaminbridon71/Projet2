@@ -55,35 +55,35 @@
         font-size: 20px;
     }
 
-.date1 {
+#date1 {
     margin-top: 22px;
     margin-bottom: 0px;
     width: 980px;
 }
 
-.date2 {
+#date2 {
     margin-top: 22px;
     margin-bottom: 0px;
     width: 980px;
 }
 
-.date3 {
+#date3 {
     margin-top: 22px;
     margin-bottom: 0px;
     width: 980px;
 }
 
-#dateformation .date1 {
+#dateformation #date1 {
     order: 1;
     width: 980px;
 }
 
-#dateformation .date2 {
+#dateformation #date2 {
     order: 3;
     width: 980px;
 }
 
-#dateformation .date3 {
+#dateformation #date3 {
     order: 5;
     width: 980px;
 }
@@ -151,21 +151,21 @@
     display: contents;
 }
 
-.experience1 {
+#experience1 {
     order: 1;
     margin-bottom: 0px;
     margin-top: 22px;
     width: 980px;
 }
 
-.experience2 {
+#experience2 {
     order: 3;
     margin-bottom: 0px;
     margin-top: 22px;
     width: 980px;
 }
 
-.experience3 {
+#experience3 {
     order: 5;
     margin-bottom: 0px;
     margin-top: 22px;
