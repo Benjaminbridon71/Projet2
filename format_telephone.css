@@ -24,6 +24,9 @@
 #formation {
     width: 600px;
 }
+#formation h3{
+    font-size:25px;
+}
 #date1 {
     width: 580px;
 }
