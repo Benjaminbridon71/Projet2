@@ -5,7 +5,9 @@ body {
     width: 400px;
     text-orientation: initial;
 }
-
+.titre2{
+    width:380px;
+}
 #conteneur1 {
     width: 400px;
 }
