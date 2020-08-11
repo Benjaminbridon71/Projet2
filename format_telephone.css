@@ -14,7 +14,9 @@
 #conteneur2 {
     width: 600px;
 }
-
+.titre2{
+    width:100%;
+}
 #etudiant {
     width: 600px;
     margin-left: 45px;
