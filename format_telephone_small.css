@@ -14,14 +14,14 @@ body {
     width: 400px;
 }
 .titre1 {
-    width: 380px;
+    width: 400px;
 }
 #etudiant {
-    width: 380px;
-    margin-left: 25px;
+    width: 400px;
+    margin-left: 45px;
 }
 #formation {
-    width: 400px;
+    width: 380px;
 }
 #date1 {
     width: 380px;
@@ -77,15 +77,28 @@ body {
 
 
 #reco {
-    width: 380px;
-    padding-bottom: 5px;
-    height:auto;
+    width: 400px;
+    padding-bottom: 20px;
 }
 
 #propo {
-    width: 380px;
+    width: 400px;
 }
 
 #activ {
-    padding-left: 10px;
+    padding-left: 200px;
 }
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
