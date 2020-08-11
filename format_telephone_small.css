@@ -1,1 +1,90 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 400px;
+    text-orientation: initial;
+}
 
+#conteneur1 {
+    width: 400px;
+}
+
+#conteneur2 {
+    width: 400px;
+}
+.titre1 {
+    width: 400px;
+}
+#etudiant {
+    width: 400px;
+    margin-left: 25px;
+}
+#formation {
+    width: 400px;
+}
+#date1 {
+    width: 380px;
+}
+
+#date2 {
+    width: 380px;
+}
+
+#date3 {
+    width: 380px;
+}
+
+#formation1 {
+    width: 380px;
+}
+
+#formation2 {
+    width: 380px;
+}
+
+#formation3 {
+    width: 380px;
+}
+#experience {
+    width: 380px;
+}
+
+
+#lieu1 {
+    width: 380px;
+}
+
+#lieu2 {
+    width: 380px;
+}
+
+#lieu3 {
+    width: 380px;
+}
+
+#experience1 {
+    width: 380px;
+}
+
+#experience2 {
+    width: 380px;
+}
+
+#experience3 {
+    width: 380px;
+}
+
+
+#reco {
+    width: 380px;
+    padding-bottom: 10px;
+}
+
+#propo {
+    width: 380px;
+}
+
+#activ {
+    padding-left: 100px;
+}
