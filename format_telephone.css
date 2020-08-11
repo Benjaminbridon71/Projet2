@@ -1,10 +1,10 @@
-﻿body {
+body {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     width: 600px;
     text-orientation: initial;
-    
+    font-size:40px;
 }
 
 #conteneur1 {
@@ -14,8 +14,8 @@
 #conteneur2 {
     width: 600px;
 }
-.titre2{
-    width:100%;
+.titre1 {
+    width: 600px;
 }
 #etudiant {
     width: 600px;
@@ -23,7 +23,7 @@
 }
 #formation {
     width: 580px;
-
+}
 #date1 {
     width: 580px;
 }
@@ -80,15 +80,27 @@
 #reco {
     width: 600px;
     padding-bottom: 10px;
-    height:auto;
-    
 }
 
 #propo {
-    width: 580px;
+    width: 600px;
 }
 
 #activ {
     padding-left: 200px;
 }
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
 
