@@ -78,7 +78,8 @@ body {
 
 #reco {
     width: 380px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
+    height:auto;
 }
 
 #propo {
