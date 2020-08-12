@@ -84,10 +84,11 @@ body h3{
     padding-bottom: 40px;
     display:flex;
     flex-direction:column;
+}
 
 
 #propo {
-    width: 320px;
+    width: 330px;
 }
 
 #activ {
