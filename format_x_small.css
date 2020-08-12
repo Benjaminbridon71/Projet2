@@ -88,8 +88,8 @@ body {
 
 
 #reco {
-    width: 310px;
-    height:auto;
+    width: 330px;
+    padding-bottom:50px;
     display:flex;
     flex-direction:column;
 }
