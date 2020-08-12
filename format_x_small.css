@@ -14,8 +14,7 @@ body {
     width: 330px;
 }
 .titre1 {
-    width: 330px;
-    
+    width: 330px;   
 }
 #etudiant {
     width: 320px;
@@ -37,15 +36,15 @@ body {
 }
 
 #formation1 {
-    width: 305px;
+    width: 300px;
 }
 
 #formation2 {
-    width: 305px;
+    width: 300px;
 }
 
 #formation3 {
-    width: 305px;
+    width: 300px;
 }
 #experience {
     width: 310px;
@@ -65,15 +64,15 @@ body {
 }
 
 #experience1 {
-    width: 310px;
+    width: 300px;
 }
 
 #experience2 {
-    width: 310px;
+    width: 300px;
 }
 
 #experience3 {
-    width: 310px;
+    width: 300px;
 }
 
 
