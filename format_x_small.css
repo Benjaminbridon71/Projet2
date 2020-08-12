@@ -5,9 +5,7 @@ body {
     width: 330px;
     text-orientation: initial;
 }
-body h3{
-    width:320px;
-}
+
 
 #conteneur1 {
     width: 330px;
@@ -30,6 +28,9 @@ body h3{
     width: 310px;
     margin-left:0px;
     padding-left:0px;
+}
+#formation h3 {
+    width:310px;
 }
 #date1 {
     width: 310px;
@@ -101,7 +102,7 @@ body h3{
 }
 
 #activ {
-    padding-left: 30px;
+    padding-left: 20px;
 }
 
     © 2020 GitHub, Inc.
