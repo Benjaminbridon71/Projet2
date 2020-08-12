@@ -5,6 +5,9 @@ body {
     width: 330px;
     text-orientation: initial;
 }
+body h3{
+    width:320px;
+}
 
 #conteneur1 {
     width: 330px;
