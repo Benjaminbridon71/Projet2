@@ -15,6 +15,7 @@ body {
 }
 .titre1 {
     width: 330px;
+    margin-left:10px;
 }
 #etudiant {
     width: 320px;
@@ -78,7 +79,7 @@ body {
 
 #reco {
     width: 310px;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
     display:flex;
     flex-direction:column;
 
