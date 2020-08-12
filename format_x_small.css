@@ -17,68 +17,68 @@ body {
     width: 330px;
 }
 #etudiant {
-    width: 330px;
+    width: 320px;
     margin-left: 25px;
 }
 #formation {
-    width: 320px;
+    width: 315px;
 }
 #date1 {
-    width: 320px;
+    width: 315px;
 }
 
 #date2 {
-    width: 320px;
+    width: 315px;
 }
 
 #date3 {
-    width: 320px;
+    width: 315px;
 }
 
 #formation1 {
-    width: 320px;
+    width: 315px;
 }
 
 #formation2 {
-    width: 320px;
+    width: 315px;
 }
 
 #formation3 {
-    width: 320px;
+    width: 315px;
 }
 #experience {
-    width: 320px;
+    width: 315px;
 }
 
 
 #lieu1 {
-    width: 320px;
+    width: 315px;
 }
 
 #lieu2 {
-    width: 320px;
+    width: 315px;
 }
 
 #lieu3 {
-    width: 320px;
+    width: 315px;
 }
 
 #experience1 {
-    width: 320px;
+    width: 315px;
 }
 
 #experience2 {
-    width: 320px;
+    width: 315px;
 }
 
 #experience3 {
-    width: 320px;
+    width: 315px;
 }
 
 
 #reco {
-    width: 330px;
-    padding-bottom: 40px;
+    width: 315px;
+    padding-bottom: 30px;
     display:flex;
     flex-direction:column;
 }
@@ -88,7 +88,7 @@ body {
 }
 
 #activ {
-    padding-left: 50px;
+    padding-left: 40px;
 }
 
     © 2020 GitHub, Inc.
