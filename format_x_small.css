@@ -24,18 +24,20 @@ body h3{
     margin-left: 25px;
 }
 #formation {
-    width: 320px;
+    width: 310px;
+    margin-left:0px;
+    padding-left:0px;
 }
 #date1 {
-    width: 320px;
+    width: 310px;
 }
 
 #date2 {
-    width: 320px;
+    width: 310px;
 }
 
 #date3 {
-    width: 320px;
+    width: 310px;
 }
 
 #formation1 {
@@ -51,6 +53,8 @@ body h3{
 }
 #experience {
     width: 310px;
+    margin-left:0px;
+    padding-left:0px;
 }
 
 
