@@ -1,1 +1,106 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 330px;
+    text-orientation: initial;
+}
 
+#conteneur1 {
+    width: 330px;
+}
+
+#conteneur2 {
+    width: 330px;
+}
+.titre1 {
+    width: 330px;
+}
+#etudiant {
+    width: 330px;
+    margin-left: 45px;
+}
+#formation {
+    width: 315px;
+}
+#date1 {
+    width: 315px;
+}
+
+#date2 {
+    width: 315px;
+}
+
+#date3 {
+    width: 315px;
+}
+
+#formation1 {
+    width: 315px;
+}
+
+#formation2 {
+    width: 315px;
+}
+
+#formation3 {
+    width: 315px;
+}
+#experience {
+    width: 315px;
+}
+
+
+#lieu1 {
+    width: 315px;
+}
+
+#lieu2 {
+    width: 315px;
+}
+
+#lieu3 {
+    width: 315px;
+}
+
+#experience1 {
+    width: 315px;
+}
+
+#experience2 {
+    width: 315px;
+}
+
+#experience3 {
+    width: 315px;
+}
+
+
+#reco {
+    width: 330px;
+    padding-bottom: 40px;
+    display:flex;
+    flex-direction:column;
+}
+
+#propo {
+    width: 330px;
+}
+
+#activ {
+    padding-left: 50px;
+}
+
+    © 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
