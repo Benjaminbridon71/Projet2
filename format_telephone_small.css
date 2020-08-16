@@ -5,24 +5,33 @@ body {
     width: 400px;
     text-orientation: initial;
     padding-right:10px;
+    padding-left:0px;
+    margin-left:0px;
 }
 
 #conteneur1 {
     width: 400px;
+    padding-left:0px;
+    margin-left:0px;
 }
 
 #conteneur2 {
     width: 400px;
+    padding-left:0px;
+    margin-left:0px;
 }
 .titre1 {
     width: 400px;
 }
 #etudiant {
     width: 400px;
-    margin-left: 25px;
+    padding-left:0px;
+    margin-left:0px;
 }
 #formation {
     width: 385px;
+    padding-left:0px;
+    margin-left:0px;
 }
 #date1 {
     width: 385px;
@@ -49,6 +58,8 @@ body {
 }
 #experience {
     width: 385px;
+    padding-left:0px;
+    margin-left:0px;
 }
 
 
