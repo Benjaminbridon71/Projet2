@@ -4,6 +4,7 @@ body {
     flex-wrap: wrap;
     width: 400px;
     text-orientation: initial;
+    padding-right:10px;
 }
 
 #conteneur1 {
