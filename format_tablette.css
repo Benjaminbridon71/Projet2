@@ -4,6 +4,7 @@
     flex-wrap: wrap;
     width: 1000px;
     text-orientation: initial;
+    padding-right:10px;
 }
 #conteneur1 {
     order: 2;
