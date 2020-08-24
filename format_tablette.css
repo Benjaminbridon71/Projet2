@@ -36,9 +36,10 @@
 }
 
 #etudiant {
-    margin-left: 8%;
+    margin-left: 20%;
     width: 1000px;
    font-size:0,8em;
+    text-align:justify;
     
 }
 
