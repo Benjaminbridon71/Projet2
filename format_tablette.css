@@ -10,11 +10,8 @@
 #conteneur1 {
     order: 2;
     width: 100%;
-    padding-left:5px;
-    padding-right:5px;
-    
 }
-
+    
 #conteneur2 {
     order: 1;
     width: 100%;
@@ -41,7 +38,9 @@
 #etudiant {
     margin-left: 8%;
     width: 1000px;
-   
+   padding-left:5px;
+    padding-right:5px;
+    font-size:1em;
 }
 
 #formation {
