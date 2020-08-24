@@ -38,9 +38,8 @@
 #etudiant {
     margin-left: 8%;
     width: 1000px;
-   padding-left:5px;
-    padding-right:5px;
-    font-size:1em;
+   font-size:0,8em;
+    
 }
 
 #formation {
