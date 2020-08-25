@@ -50,7 +50,6 @@
     flex-direction: column;
     height: auto;
     font-size:0,6em;
-    text-align:justify;
 }
 #dateformation {
     display: contents;
@@ -100,16 +99,19 @@
     order: 2;
     margin-top: 0px;
     width: 80%;
+    text-align:justify;
 }
 
 #formation2 {
     order: 4;
     width: 80%;
+    text-align:justify;
 }
 
 #formation3 {
     order: 6;
     width: 80%;
+    text-align:justify;
 }
 
 #formation1 h3 {
