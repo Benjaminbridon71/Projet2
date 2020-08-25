@@ -28,7 +28,7 @@
     width: 100%;
 }
 .titre2 {
-    margin-left: 20px;
+    margin-left: 5%;
     margin-top: 22px;
 }
 #photo {
@@ -36,9 +36,9 @@
 }
 
 #etudiant {
-    margin-left: 10%;
+    margin-left: 5%;
     width: 80%;
-   margin-right:10%;
+   margin-right:15%;
     text-align:justify;
     
 }
