@@ -44,14 +44,13 @@
 }
 
 #formation {
-    margin-left: 20px;
-    width: 990px;
+    margin-left: 10%;
+    width: 80%;
     display: flex;
     flex-direction: column;
     height: auto;
-    font-size:0,6em;
     text-align:justify;
-    
+    margin-right:10%;
 }
 #dateformation {
     display: contents;
