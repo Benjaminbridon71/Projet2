@@ -99,12 +99,12 @@
 #formation1 {
     order: 2;
     margin-top: 0px;
-    width: 990px;
+    width: 80%;
 }
 
 #formation2 {
     order: 4;
-    width: 990px;
+    width: 80%;
 }
 
 #formation3 {
@@ -114,17 +114,17 @@
 
 #formation1 h3 {
     margin-top: 10px;
-    width: 990px;
+    width: 80%;
 }
 
 #formation2 h3 {
     margin-top: 10px;
-    width: 990px;
+    width: 80%;
 }
 
 #formation3 h3 {
     margin-top: 10px;
-    width: 990px;
+    width: 80%;
 }
 
 #dateformation {
