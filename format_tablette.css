@@ -18,11 +18,11 @@
    
 }
     #conteneur2 p {
-        font-size: 0,8em;
+        font-size: 15px;
     }
 
 #conteneur1 p {
-    font-size: 0,8em;
+    font-size: 15px;
 }
 .titre1 {
     width: 100%;
@@ -58,7 +58,7 @@
     display: contents;
 }
     #formation h4 {
-        font-size: 15px;
+        font-size: 13px;
     }
 
 #date1 {
