@@ -28,7 +28,7 @@
     width: 100%;
 }
 .titre2 {
-    margin-left: 5%;
+    margin-left: 2%;
     margin-top: 22px;
 }
 #photo {
@@ -44,13 +44,11 @@
 }
 
 #formation {
-    margin-left: 10%;
-    width: 80%;
+    margin-left: 2%;
+    width: 1000px;
     display: flex;
     flex-direction: column;
     height: auto;
-    text-align:justify;
-    margin-right:10%;
 }
 #dateformation {
     display: contents;
@@ -60,7 +58,7 @@
     display: contents;
 }
     #formation h4 {
-        font-size: 20px;
+        font-size: 15px;
     }
 
 #date1 {
