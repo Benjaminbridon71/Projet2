@@ -56,24 +56,6 @@ body {
         font-size: 20px;
     }
 
-.date1 {
-    margin-top: 22px;
-    margin-bottom: 0px;
-    width: 80%;
-}
-
-.date2 {
-    margin-top: 22px;
-    margin-bottom: 0px;
-    width: 80%;
-}
-
-.date3 {
-    margin-top: 22px;
-    margin-bottom: 0px;
-    width: 80%;
-}
-
 #dateformation .date1 {
     order: 1;
     width: 980px;
