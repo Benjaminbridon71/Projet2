@@ -1,28 +1,25 @@
-﻿body {
+body {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     width: 1000px;
     text-orientation: initial;
-    padding-right:10px;
-   
 }
 #conteneur1 {
     order: 2;
     width: 100%;
 }
-    
+
 #conteneur2 {
     order: 1;
     width: 100%;
-   
 }
     #conteneur2 p {
-        font-size: 15px;
+        font-size: 1.3em;
     }
 
 #conteneur1 p {
-    font-size: 15px;
+    font-size: 1.3em;
 }
 .titre1 {
     width: 100%;
@@ -36,16 +33,13 @@
 }
 
 #etudiant {
-    margin-left: 5%;
-    width: 80%;
-   margin-right:15%;
-    text-align:justify;
-    
+    margin-left: 10%;
+    width: 1000px;
 }
 
 #formation {
-     margin-left: 20px;
-    width: 990px;
+    margin-left: 20px;
+    width: 980px;
     display: flex;
     flex-direction: column;
     height: auto;
@@ -58,74 +52,71 @@
     display: contents;
 }
     #formation h4 {
-        font-size: 13px;
+        font-size: 20px;
     }
 
-#date1 {
+.date1 {
     margin-top: 22px;
     margin-bottom: 0px;
-    width: 990px;
+    width: 980px;
 }
 
-#date2 {
+.date2 {
     margin-top: 22px;
     margin-bottom: 0px;
-    width: 990px;
+    width: 980px;
 }
 
-#date3 {
+.date3 {
     margin-top: 22px;
     margin-bottom: 0px;
-    width: 990px;
+    width: 980px;
 }
 
-#dateformation #date1 {
+#dateformation .date1 {
     order: 1;
-    width: 990px;
+    width: 980px;
 }
 
-#dateformation #date2 {
+#dateformation .date2 {
     order: 3;
-    width: 990px;
+    width: 980px;
 }
 
-#dateformation #date3 {
+#dateformation .date3 {
     order: 5;
-    width: 990px;
+    width: 980px;
 }
 
 #formation1 {
     order: 2;
     margin-top: 0px;
-    width: 80%;
-    text-align:justify;
+    width: 980px;
 }
 
 #formation2 {
     order: 4;
-    width: 80%;
-    text-align:justify;
+    width: 980px;
 }
 
 #formation3 {
     order: 6;
     width: 80%;
-    text-align:justify;
 }
 
 #formation1 h3 {
     margin-top: 10px;
-    width: 80%;
+    width: 980px;
 }
 
 #formation2 h3 {
     margin-top: 10px;
-    width: 80%;
+    width: 980px;
 }
 
 #formation3 h3 {
     margin-top: 10px;
-    width: 80%;
+    width: 980px;
 }
 
 #dateformation {
@@ -138,13 +129,10 @@
 
 #experience {
     margin-left: 20px;
-    width: 990px;
+    width: 980px;
     display: flex;
     flex-direction: column;
     height: auto;
-    font-size:0,6em;
-    text-align:justify;
-   
 }
 
     #experience h3 {
@@ -163,43 +151,43 @@
     display: contents;
 }
 
-#experience1 {
+.experience1 {
     order: 1;
     margin-bottom: 0px;
     margin-top: 22px;
-    width: 990px;
+    width: 980px;
 }
 
-#experience2 {
+.experience2 {
     order: 3;
     margin-bottom: 0px;
     margin-top: 22px;
-    width: 990px;
+    width: 980px;
 }
 
-#experience3 {
+.experience3 {
     order: 5;
     margin-bottom: 0px;
     margin-top: 22px;
-    width: 990px;
+    width: 980px;
 }
 
 #lieu1 {
     order: 2;
     margin-bottom: 10px;
     margin-top: 5px;
-    width: 990px;
+    width: 980px;
 }
 
 #lieu2 {
     order: 4;
     margin-bottom: 10px;
-    width: 990px;
+    width: 980px;
 }
 
 #lieu3 {
     order: 6;
-    width: 990px;
+    width: 980px;
 }
 
 #propo {
@@ -216,8 +204,6 @@
 #reco {
     margin-left: 0px;
     width: 100%;
-    font-size:0,6em;
-    text-align:justify;
 }
 
 #loisir {
