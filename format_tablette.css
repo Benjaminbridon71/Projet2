@@ -91,32 +91,26 @@ body {
 #formation1 {
     order: 2;
     margin-top: 0px;
-    width: 980px;
 }
 
 #formation2 {
     order: 4;
-    width: 980px;
 }
 
 #formation3 {
     order: 6;
-    width: 80%;
 }
 
 #formation1 h3 {
     margin-top: 10px;
-    width: 980px;
 }
 
 #formation2 h3 {
     margin-top: 10px;
-    width: 980px;
 }
 
 #formation3 h3 {
     margin-top: 10px;
-    width: 980px;
 }
 
 #dateformation {
