@@ -15,11 +15,11 @@ body {
     width: 100%;
 }
     #conteneur2 p {
-        font-size: 1.1em;
+        font-size: 1.3em;
     }
 
 #conteneur1 p {
-    font-size: 1.1em;
+    font-size: 1.3em;
 }
 .titre1 {
     width: 100%;
@@ -34,8 +34,7 @@ body {
 
 #etudiant {
     margin-left: 10%;
-    width: 80%;
-    text-align:justify;
+    width: 1000px;
 }
 
 #formation {
@@ -56,6 +55,24 @@ body {
         font-size: 20px;
     }
 
+.date1 {
+    margin-top: 22px;
+    margin-bottom: 0px;
+    width: 980px;
+}
+
+.date2 {
+    margin-top: 22px;
+    margin-bottom: 0px;
+    width: 980px;
+}
+
+.date3 {
+    margin-top: 22px;
+    margin-bottom: 0px;
+    width: 980px;
+}
+
 #dateformation .date1 {
     order: 1;
     width: 980px;
@@ -74,35 +91,32 @@ body {
 #formation1 {
     order: 2;
     margin-top: 0px;
-    width: 80%;
-    text-align:justify;
+    width: 980px;
 }
 
 #formation2 {
     order: 4;
-    width: 80%;
-    text-align:justify;
+    width: 980px;
 }
 
 #formation3 {
     order: 6;
     width: 80%;
-    text-align:justify;
 }
 
 #formation1 h3 {
     margin-top: 10px;
-    width: 80%;
+    width: 980px;
 }
 
 #formation2 h3 {
     margin-top: 10px;
-    width: 80%;
+    width: 980px;
 }
 
 #formation3 h3 {
     margin-top: 10px;
-    width: 80%;
+    width: 980px;
 }
 
 #dateformation {
@@ -162,27 +176,23 @@ body {
     order: 2;
     margin-bottom: 10px;
     margin-top: 5px;
-    width: 80%;
-    text-align:justify;
+    width: 980px;
 }
 
 #lieu2 {
     order: 4;
     margin-bottom: 10px;
-    width: 80%;
-    text-align:justify;
+    width: 980px;
 }
 
 #lieu3 {
     order: 6;
-    width: 80%;
-    text-align:justify;
+    width: 980px;
 }
 
 #propo {
     height: auto;
-    width: 80%;
-    text-align:justify;
+    width: 100%;
 }
 
 #contact {
@@ -193,7 +203,7 @@ body {
 
 #reco {
     margin-left: 0px;
-    width: 80%;
+    width: 100%;
 }
 
 #loisir {
