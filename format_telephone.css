@@ -12,7 +12,7 @@ body {
 #conteneur1 {
     width: 600px;
     padding-left:0px;
-    margin-left:0px;
+    margin-left:0px;    
 }
 
 #conteneur2 {
@@ -47,15 +47,18 @@ body {
 }
 
 #formation1 {
-    width: 590px;
+    font-size:0,6em;
+    text-align:justify;
 }
 
 #formation2 {
-    width: 590px;
+    font-size:0,6em;
+    text-align:justify;
 }
 
 #formation3 {
-    width: 590px;
+   font-size:0,6em;
+    text-align:justify;
 }
 #experience {
     width: 590px;
@@ -77,15 +80,18 @@ body {
 }
 
 #experience1 {
-    width: 590px;
+    font-size:0,6em;
+    text-align:justify;
 }
 
 #experience2 {
-    width: 590px;
+    font-size:0,6em;
+    text-align:justify;
 }
 
 #experience3 {
-    width: 590px;
+    font-size:0,6em;
+    text-align:justify;
 }
 
 
