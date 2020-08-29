@@ -52,53 +52,65 @@ body {
     display: contents;
 }
     #formation h4 {
-        font-size: 20px;
+        font-size: 15px;
     }
 
 .date1 {
     margin-top: 22px;
     margin-bottom: 0px;
-    width: 980px;
+    margin-left:20px;
+    text-align:justify;
 }
 
 .date2 {
     margin-top: 22px;
     margin-bottom: 0px;
-    width: 980px;
+    margin-left:20px;
+    text-align:justify;
 }
 
 .date3 {
     margin-top: 22px;
     margin-bottom: 0px;
-    width: 980px;
+    margin-left:20px;
+    text-align:justify;
 }
 
 #dateformation .date1 {
     order: 1;
-    width: 980px;
+    margin-left:20px;
+    text-align:justify;
 }
 
 #dateformation .date2 {
     order: 3;
-    width: 980px;
+    margin-left:20px;
+    text-align:justify;
 }
 
 #dateformation .date3 {
     order: 5;
-    width: 980px;
+    margin-left:20px;
+    text-align:justify;
 }
 
 #formation1 {
     order: 2;
     margin-top: 0px;
+    margin-left:20px;
+    text-align:justify;
 }
 
 #formation2 {
     order: 4;
+    margin-left:20px;
+    text-align:justify;
 }
 
 #formation3 {
     order: 6;
+    margin-left:20px;
+    text-align:justify;
 }
 
 #formation1 h3 {
@@ -149,44 +161,52 @@ body {
     order: 1;
     margin-bottom: 0px;
     margin-top: 22px;
-    width: 980px;
+   margin-left:20px;
+    text-align:justify;
 }
 
 .experience2 {
     order: 3;
     margin-bottom: 0px;
     margin-top: 22px;
-    width: 980px;
+    margin-left:20px;
+    text-align:justify;
 }
 
 .experience3 {
     order: 5;
     margin-bottom: 0px;
     margin-top: 22px;
-    width: 980px;
+    margin-left:20px;
+    text-align:justify;
 }
 
 #lieu1 {
     order: 2;
     margin-bottom: 10px;
     margin-top: 5px;
-    width: 980px;
+   margin-left:20px;
+    text-align:justify;
 }
 
 #lieu2 {
     order: 4;
     margin-bottom: 10px;
-    width: 980px;
+   margin-left:20px;
+    text-align:justify;
 }
 
 #lieu3 {
     order: 6;
-    width: 980px;
+    margin-left:20px;
+    text-align:justify;
 }
 
 #propo {
     height: auto;
     width: 100%;
+    margin-left:20px;
+    text-align:justify;
 }
 
 #contact {
