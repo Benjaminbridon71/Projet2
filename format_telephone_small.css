@@ -46,15 +46,18 @@ body {
 }
 
 #formation1 {
-    width: 385px;
+    font-size:0,4em;
+    text-align:justify;
 }
 
 #formation2 {
-    width: 385px;
+    font-size:0,4em;
+    text-align:justify;
 }
 
 #formation3 {
-    width: 385px;
+   font-size:0,4em;
+    text-align:justify;
 }
 #experience {
     width: 385px;
@@ -76,15 +79,18 @@ body {
 }
 
 #experience1 {
-    width: 385px;
+    font-size:0,4em;
+    text-align:justify;
 }
 
 #experience2 {
-    width: 385px;
+    font-size:0,4em;
+    text-align:justify;
 }
 
 #experience3 {
-    width: 385px;
+    font-size:0,4em;
+    text-align:justify;
 }
 
 
