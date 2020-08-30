@@ -101,7 +101,9 @@ body {
 }
 
 #propo {
-    width: 600px;
+    text-align:justify;
+    margin-left:5px;
+    margin-right:400px;
 }
 
 #activ {
