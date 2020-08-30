@@ -217,8 +217,8 @@ body {
 
 #reco {
     margin-left: 0px;
-    width: 100%;
-    padding-right:150px;
+    padding-right:50px;
+    text-align:justify;
 }
 
 #loisir {
