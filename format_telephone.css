@@ -98,7 +98,7 @@ body {
 
 #reco {
     width: 600px;
-    padding-bottom: 20px;
+    height:auto;
 }
 
 #propo {
@@ -111,5 +111,11 @@ body {
     padding-left: 200px;
 }
 
-   
+#source1{
+    width:200px;
+    margin-right:5px;
+}
+#source2{
+    width:200px;
+}
 
