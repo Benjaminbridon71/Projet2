@@ -32,6 +32,7 @@ body {
     width: 590px;
     padding-left:0px;
     margin-left:0px;
+    font-size:15px;
 }
 #date1 {
     width: 590px;
@@ -46,23 +47,21 @@ body {
 }
 
 #formation1 {
-    font-size:0,6em;
     text-align:justify;
 }
 
 #formation2 {
-    font-size:0,6em;
     text-align:justify;
 }
 
 #formation3 {
-   font-size:0,6em;
     text-align:justify;
 }
 #experience {
     width: 590px;
     padding-left:0px;
     margin-left:0px;
+    font-size:15px;
 }
 
 
@@ -79,24 +78,23 @@ body {
 }
 
 #experience1 {
-    font-size:0,6em;
     text-align:justify;
 }
 
 #experience2 {
-    font-size:0,6em;
     text-align:justify;
 }
 
 #experience3 {
-    font-size:0,6em;
     text-align:justify;
 }
 
 
 #reco {
     width: 600px;
-    height:auto;
+    height:250px;
+    display:flex;
+    flex-direction:column;
 }
 
 #propo {
@@ -110,10 +108,9 @@ body {
 }
 
 #source1{
-    width:150px;
-    margin-right:5px;
+    order:1;
 }
 #source2{
-    width:200px;
+    order:2;
 }
 
