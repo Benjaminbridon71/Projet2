@@ -24,10 +24,8 @@ body {
     width: 600px;
 }
 #etudiant {
-    width: 600px;
-    margin-left: 35px;
-    padding-left:0px;
-    margin-left:0px;
+    width: 400px;
+    margin-left: 5px;
     font-size:0,7em;
 }
 #formation {
