@@ -22,7 +22,9 @@ body {
 }
 .titre1 {
     width: 600px;
-    margin-left:200px;
+}
+.titre1 h2{
+    margin-right:200px;
 }
 #etudiant {
     width: 400px;
