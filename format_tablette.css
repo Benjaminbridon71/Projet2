@@ -11,16 +11,16 @@ body {
 }
 
 #etudiant {
-    margin-left: 10%;
-    width: 1000px;
+    margin-left: 25%;
+    margin-right:25%;
 }
 
 
 #conteneur2 p {
-    font-size: 1.3em;
+    font-size: 1em;
 }
 #conteneur1 p {
-    font-size: 1.3em;
+    font-size: 1em;
 }
 
 #formation {
@@ -31,70 +31,79 @@ body {
     height: auto;
 }
 #formation h4{
-    font-size:20px;
+    font-size:15px;
 }
 .date1 {
         margin-top: 22px;
         margin-bottom: 0px;
-        width: 980px;
+        margin-left:25%;
+    margin-right:25%;
     }
 
 .date2 {
     margin-top: 22px;
     margin-bottom: 0px;
-    width: 980px;
+    margin-left:25%;
+    margin-right:25%;
 }
 
 .date3 {
     margin-top: 22px;
     margin-bottom: 0px;
-    width: 980px;
+    margin-left:25%;
+    margin-right:25%;
 }
 
 #dateformation .date1 {
     order: 1;
-    width: 980px;
+    
 }
 
 #dateformation .date2 {
     order: 3;
-    width: 980px;
+   
 }
 
 #dateformation .date3 {
     order: 5;
-    width: 980px;
+   
 }
 
 #formation1 {
     order: 2;
     margin-top: 0px;
-    width: 980px;
+    margin-left:25%;
+    margin-right:25%;
 }
 
 #formation2 {
     order: 4;
-    width: 980px;
+   margin-left:25%;
+    margin-right:25%;
 }
 
 #formation3 {
     order: 6;
-    width: 80%;
+   margin-left:25%;
+    margin-right:25%;
 }
 
 #formation1 h3 {
     margin-top: 10px;
-    width: 980px;
+   margin-left:25%;
+    margin-right:25%;
 }
 
 #formation2 h3 {
     margin-top: 10px;
-    width: 980px;
+    margin-left:25%;
+    margin-right:25%;
 }
 
 #formation3 h3 {
     margin-top: 10px;
-    width: 980px;
+    margin-left:25%;
+    margin-right:25%;
 }
 
 #dateformation {
@@ -118,7 +127,7 @@ body {
     }
 	
 #experience h4 {
-        font-size: 20px;
+        font-size: 15px;
     }
 #date-experience {
     display: contents;
@@ -131,35 +140,41 @@ body {
     order: 1;
     margin-bottom: 0px;
     margin-top: 22px;
-    width: 980px;
+    margin-left:25%;
+    margin-right:25%;
 }
 .experience2 {
     order: 3;
     margin-bottom: 0px;
 	margin-top: 22px;
-    width: 980px;
+    margin-left:25%;
+    margin-right:25%;
 	
 }
 .experience3 {
     order: 5;
     margin-bottom: 0px;
 	margin-top: 22px;
-    width: 980px;
+    margin-left:25%;
+    margin-right:25%;
 }
 #lieu1 {
     order: 2;
     margin-bottom: 10px;
     margin-top: 5px;
-    width: 980px;
+    margin-left:25%;
+    margin-right:25%;
 }
 #lieu2 {
     order: 4;
     margin-bottom: 10px;
-    width: 980px;
+    margin-left:25%;
+    margin-right:25%;
 }
 #lieu3 {
     order: 6;
-    width:980px;
+    margin-left:25%;
+    margin-right:25%;
 }
     #propo {
     height: auto;
