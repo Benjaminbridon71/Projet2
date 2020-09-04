@@ -1,120 +1,74 @@
 body {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
-    width: 600px;
-    text-orientation: initial;
-    padding-right:10px;
-    padding-left:0px;
-    margin-left:0px;
-}
+    flex-wrap:wrap;
+    width:600px;
+    text-orientation:initial;
+    }
 
-#conteneur1 {
-    width: 600px;
-    padding-left:0px;
-    margin-left:0px;    
+#conteneur1{
+    width:600px;
 }
 
 #conteneur2 {
     width: 600px;
-    padding-left:0px;
-    margin-left:0px;
+}
+#formation{
+    width:580px;
+}
+#experience{
+    width:580px;
+}
+#etudiant {
+    width: 600px;
+    margin-left:45px;
+}
+.date1{
+    width:580px;
+}
+.date2 {
+    width: 580px;
+}
+.date3 {
+    width: 580px;
+}
+#formation1{
+    width:580px;
+}
+#formation2 {
+    width: 580px;
+}
+#formation3 {
+    width: 580px;
+}
+#lieu1{
+    width:580px;
+}
+#lieu2 {
+    width: 580px;
+}
+#lieu3 {
+    width: 580px;
+}
+#experience1{
+    width:580px;
+}
+#experience2 {
+    width: 580px;
+}
+#experience3 {
+    width: 580px;
 }
 .titre1 {
     width: 600px;
 }
-.titre1 h2{
-    margin-right:200px;
+#reco{
+    width:600px;
+    padding-bottom:10px;
 }
-#etudiant {
-    width: 400px;
-    margin-left: 5px;
-    font-size:0,7em;
+#propo{
+    width:600px;
 }
-#formation {
-    width: 590px;
-    padding-left:0px;
-    margin-left:0px;
-    font-size:15px;
+#activ{
+    padding-left:200px;
 }
-#date1 {
-    width: 590px;
-}
-
-#date2 {
-    width: 590px;
-}
-
-#date3 {
-    width: 590px;
-}
-
-#formation1 {
-    text-align:justify;
-}
-
-#formation2 {
-    text-align:justify;
-}
-
-#formation3 {
-    text-align:justify;
-}
-#experience {
-    width: 590px;
-    padding-left:0px;
-    margin-left:0px;
-    font-size:15px;
-}
-
-
-#lieu1 {
-    width: 590px;
-}
-
-#lieu2 {
-    width: 590px;
-}
-
-#lieu3 {
-    width: 590px;
-}
-
-#experience1 {
-    text-align:justify;
-}
-
-#experience2 {
-    text-align:justify;
-}
-
-#experience3 {
-    text-align:justify;
-}
-
-
-#reco {
-    width: 600px;
-    height:300px;
-    display:flex;
-    flex-direction:column;
-}
-
-#propo {
-    text-align:justify;
-    margin-left:5px;
-    margin-right:250px;
-}
-
-#activ {
-    padding-left: 120px;
-}
-
-#source1{
-    order:1;
-}
-#source2{
-    order:2;
-    margin-left:5px;
-}
-
