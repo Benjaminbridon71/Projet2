@@ -17,10 +17,10 @@ body {
 
 
 #conteneur2 p {
-    font-size: 1.3em;
+    font-size: 1em;
 }
 #conteneur1 p {
-    font-size: 1.3em;
+    font-size: 1em;
 }
 
 #formation {
@@ -36,65 +36,53 @@ body {
 .date1 {
         margin-top: 22px;
         margin-bottom: 0px;
-        width: 980px;
     }
 
 .date2 {
     margin-top: 22px;
     margin-bottom: 0px;
-    width: 980px;
 }
 
 .date3 {
     margin-top: 22px;
     margin-bottom: 0px;
-    width: 980px;
 }
 
 #dateformation .date1 {
     order: 1;
-    width: 980px;
 }
 
 #dateformation .date2 {
     order: 3;
-    width: 980px;
 }
 
 #dateformation .date3 {
     order: 5;
-    width: 980px;
 }
 
 #formation1 {
     order: 2;
     margin-top: 0px;
-    width: 980px;
 }
 
 #formation2 {
     order: 4;
-    width: 980px;
 }
 
 #formation3 {
     order: 6;
-    width: 80%;
 }
 
 #formation1 h3 {
     margin-top: 10px;
-    width: 980px;
 }
 
 #formation2 h3 {
     margin-top: 10px;
-    width: 980px;
 }
 
 #formation3 h3 {
     margin-top: 10px;
-    width: 980px;
 }
 
 #dateformation {
