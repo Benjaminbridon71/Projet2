@@ -24,13 +24,13 @@ body {
     margin-left:45px;
 }
 .date1{
-    width:580px;
+    margin-left:10%;
 }
 .date2 {
-    width: 580px;
+    margin-left:10%;
 }
 .date3 {
-    width: 580px;
+    margin-left:10%;
 }
 #formation1{
     margin-left:10%;
@@ -42,13 +42,13 @@ body {
    margin-left:10%;
 }
 #lieu1{
-    width:580px;
+    margin-left:10%;
 }
 #lieu2 {
-    width: 580px;
+    margin-left:10%;
 }
 #lieu3 {
-    width: 580px;
+    margin-left:10%;
 }
 #experience1{
     margin-left:10%;
