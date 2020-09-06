@@ -33,13 +33,13 @@ body {
     width: 580px;
 }
 #formation1{
-    width:580px;
+    margin-left:10%;
 }
 #formation2 {
-    width: 580px;
+    margin-left:10%;
 }
 #formation3 {
-    width: 580px;
+   margin-left:10%;
 }
 #lieu1{
     width:580px;
@@ -51,13 +51,13 @@ body {
     width: 580px;
 }
 #experience1{
-    width:580px;
+    margin-left:10%;
 }
 #experience2 {
-    width: 580px;
+    margin-left:10%;
 }
 #experience3 {
-    width: 580px;
+    margin-left:10%;
 }
 .titre1 {
     width: 600px;
