@@ -20,44 +20,50 @@ body {
     width:580px;
 }
 #etudiant {
-    width: 600px;
-    margin-left:45px;
+    margin-right:25%;
+    margin-left:25%;
 }
 .date1{
-    margin-left:10%;
+    margin-left:20%;
 }
 .date2 {
-    margin-left:10%;
+    margin-left:20%;
 }
 .date3 {
-    margin-left:10%;
+    margin-left:20%;
 }
 #formation1{
-    margin-left:10%;
+    margin-left:20%;
+    margin-right:20%;
 }
 #formation2 {
-    margin-left:10%;
+    margin-left:20%;
+    margin-right:20%;
 }
 #formation3 {
-   margin-left:10%;
+   margin-left:20%;
+   margin-right:20%;
 }
 #lieu1{
-    margin-left:10%;
+    margin-left:20%;
 }
 #lieu2 {
-    margin-left:10%;
+    margin-left:20%;
 }
 #lieu3 {
-    margin-left:10%;
+    margin-left:20%;
 }
 #experience1{
-    margin-left:10%;
+    margin-left:20%;
+    margin-right:20%;
 }
 #experience2 {
-    margin-left:10%;
+    margin-left:20%;
+    margin-right:20%;
 }
 #experience3 {
-    margin-left:10%;
+    margin-left:20%;
+    margin-right:20%;
 }
 .titre1 {
     width: 600px;
