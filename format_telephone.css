@@ -9,7 +9,12 @@ body {
 #conteneur1{
     width:600px;
 }
-
+#conteneur1 p{
+    font-size:0,6em;
+}
+#conteneur2 p{
+    font-size:0,6em;
+}
 #conteneur2 {
     width: 600px;
 }
