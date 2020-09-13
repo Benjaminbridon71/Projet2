@@ -23,74 +23,67 @@ body {
 .titre1 {
     width: 400px;
 }
+#conteneur1 p {
+    font-size: 0,4em;
+}
+
+#conteneur2 p {
+    font-size: 0,4em;
+}
 #etudiant {
     width: 400px;
-    padding-left:0px;
-    margin-left:0px;
+    margin-left:1%;
 }
 #formation {
-    width: 385px;
-    padding-left:0px;
-    margin-left:0px;
+    width: 390px;
 }
-#date1 {
-    width: 385px;
-}
-
-#date2 {
-    width: 385px;
-}
-
-#date3 {
-    width: 385px;
-}
-
-#formation1 {
+#formation h3{
     font-size:0,4em;
+}
+#formation h4 {
+        font-size: 0,4em;
+    }
+#formation1 {
     text-align:justify;
+    margin-left:1%;
 }
 
 #formation2 {
-    font-size:0,4em;
-    text-align:justify;
+    text-align: justify;
+    margin-left: 1%;
 }
 
 #formation3 {
-   font-size:0,4em;
-    text-align:justify;
+    text-align: justify;
+    margin-left: 1%;
 }
 #experience {
-    width: 385px;
-    padding-left:0px;
-    margin-left:0px;
+    width: 390px;
 }
 
 
 #lieu1 {
-    width: 385px;
+    margin-left: 1%;
 }
 
 #lieu2 {
-    width: 385px;
+    margin-left: 1%;
 }
 
 #lieu3 {
-    width: 385px;
+    margin-left: 1%;
 }
 
 #experience1 {
-    font-size:0,4em;
-    text-align:justify;
+    margin-left: 1%;
 }
 
 #experience2 {
-    font-size:0,4em;
-    text-align:justify;
+    margin-left: 1%;
 }
 
 #experience3 {
-    font-size:0,4em;
-    text-align:justify;
+    margin-left: 1%;
 }
 
 
@@ -109,4 +102,6 @@ body {
     padding-left: 50px;
 }
 
-    
+.fa-briefcase{
+    margin-left:1%;
+}  
