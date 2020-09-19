@@ -10,10 +10,10 @@ body {
     width:600px;
 }
 #conteneur1 p{
-    font-size:0,6em;
+    font-size:17px;
 }
 #conteneur2 p{
-    font-size:0,6em;
+    font-size:17px;
 }
 #conteneur2 {
     width: 600px;
@@ -21,44 +21,82 @@ body {
 #formation{
     width:580px;
 }
+#formation h4{
+    font-size:17px;
+}
+#formation h3 {
+        font-size: 17px;
+    }
 #experience{
     width:580px;
 }
+#experience h4{
+    font-size:17px;
+}
+#experience h3 {
+        font-size: 17px;
+    }
 #etudiant {
     margin-right:25%;
     margin-left:5%;
+    font-size:20px;
+}
+#nom1 {
+    font-size: 25px;
+}
+
+#nom2 {
+    font-size: 25px;
 }
 
 #formation1{
-    margin-left:7%;
-    margin-right:20%;
-    width:60%;
+    margin-left:3%;
+    margin-right:27%;
+    width:45%;
 }
 #formation2 {
-    margin-left: 7%;
-    margin-right: 20%;
-    width: 60%;
+    margin-left: 3%;
+    margin-right: 27%;
+    width: 45%;
 }
 #formation3 {
-    margin-left: 7%;
-    margin-right: 20%;
-    width: 60%;
+    margin-left: 3%;
+    margin-right: 27%;
+    width: 45%;
 }
 #lieu1 {
-    margin-left: 7%;
+    margin-left: 3%;
+    width:45%;
 }
 #lieu2 {
-    margin-left: 7%;
+    margin-left: 3%;
+    width:45%;
 }
 #lieu3 {
-    margin-left: 7%;
+    margin-left: 3%;
+    width:45%;
+}
+.experience1{
+    margin-left:3%;
+}
+.experience2 {
+    margin-left: 3%;
+}
+.experience3 {
+    margin-left: 3%;
 }
 
 .titre1 {
     width: 600px;
 }
+.titre1 h2{
+    font-size:18px;
+}
 .titre2 {
-    width: 600px;
+    width: 550px;
+}
+.titre2 h2{
+    font-size:17px;
 }
 #reco{
     width:600px;
@@ -68,12 +106,23 @@ body {
     height: 300px;
     margin-left: 1%;
 }
-#activ{
-    margin-left:1%;
+#activ i{
+    margin-left:2px;
+    padding-left:2px;
 }
 .fa-graduation-cap{
-    margin-left:7%;
+    margin-left:0px;
 }
 #contact{
     margin-left:1%;
+}
+.fa-briefcase{
+    margin-left:0px;
+    padding-right:2px;
+    margin-right:2px;
+}
+.fa-pencil-alt {
+    margin-left: 0px;
+    padding-right: 2px;
+    margin-right: 2px;
 }
