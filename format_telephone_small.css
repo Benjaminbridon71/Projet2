@@ -63,23 +63,26 @@ body {
     }
 #formation1 {
     text-align:justify;
-    margin-left:1%;
-    margin-right:20%;
+    margin-left:2px;
+    margin-right:25%;
     font-size:12px;
+    width:50%;
 }
 
 #formation2 {
     text-align: justify;
-    margin-left: 1%;
-    margin-right: 20%;
+    margin-left:2px;
+    margin-right: 25%;
     font-size: 12px;
+    width:50%;
 }
 
 #formation3 {
     text-align: justify;
-    margin-left: 1%;
-    margin-right: 20%;
+    margin-left:2px;
+    margin-right: 25%;
     font-size: 12px;
+    width:50%;
 }
 #experience {
     width: 390px;
@@ -139,14 +142,14 @@ body {
     font-size:13px;
 }
 #contact {
-    margin-left:1%;
+    margin-left:2px;
     margin-right: 25%;
     font-size:13px;
 }
 #propo {
     
     margin-right:15%;
-    height:300px;
+    height:500px;
     font-size:13px;
 }
 
