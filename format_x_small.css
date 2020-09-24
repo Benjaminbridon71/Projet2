@@ -28,9 +28,10 @@ body {
     width: 330px;   
 }
 #etudiant {
-    width: 330px;
+    width:40%;
     padding-left:0px;
     margin-left:0px;
+    font-size:10px;
 }
 #formation {
     width: 320px;
@@ -38,60 +39,68 @@ body {
     padding-left:0px;
 }
 #formation h3 {
-    width:320px;
+    width:30%;
+    font-size:12px;
 }
-#date1 {
-    width: 320px;
+#formation p{
+    font-size:10px;
+}
+.date1 {
+    width:35%;
 }
 
-#date2 {
-    width: 320px;
+.date2 {
+    width:35%;
 }
 
-#date3 {
-    width: 320px;
+.date3 {
+    width:35%;
 }
 
 #formation1 {
-    width: 300px;
+    width: 35%;
 }
 
 #formation2 {
-    width: 300px;
+    width: 35%;
 }
 
 #formation3 {
-    width: 300px;
+    width: 35%;
 }
 #experience {
     width: 320px;
     margin-left:0px;
     padding-left:0px;
 }
-
-
+#experience p{
+    font-size:10px;
+}
+#experience h3{
+    font-size:12px;
+}
 #lieu1 {
-    width: 320px;
+    width: 35%;
 }
 
 #lieu2 {
-    width: 320px;
+    width: 35%;
 }
 
 #lieu3 {
-    width: 320px;
+    width: 35%;
 }
 
-#experience1 {
-    width: 300px;
+.experience1 {
+    width: 35%;
 }
 
-#experience2 {
-    width: 300px;
+.experience2 {
+    width: 35%;
 }
 
-#experience3 {
-    width: 300px;
+.experience3 {
+    width: 35%;
 }
 
 
@@ -104,13 +113,18 @@ body {
 
 
 #propo {
-    width: 330px;
+    width: 50%;
     margin-left:0px;
     padding-left:0px;
+    height:650px;
 }
 
 #activ {
     padding-left: 20px;
+    height:150px;
+    width:50%;
 }
-
+#activ i{
+    margin-top:15px;
+}
    
