@@ -72,24 +72,24 @@ body {
     margin-top: 0px;
     margin-left:7%;
     margin-right:25%;
-    width:50%;
-    text-align:justify;
+    width:95%;
+    text-align:left;
 }
 
 #formation2 {
     order: 4;
     margin-left: 7%;
     margin-right: 25%;
-    width: 50%;
-    text-align: justify;
+    width:95%;
+    text-align:left;
 }
 
 #formation3 {
     order: 6;
     margin-left: 7%;
     margin-right: 25%;
-    width: 50%;
-    text-align: justify;
+    width:95%;
+    text-align:left;
 }
 
 #formation1 h3 {
@@ -159,30 +159,29 @@ body {
     margin-top: 5px;
     margin-left: 7%;
     margin-right: 25%;
-    width: 50%;
-    text-align: justify;
+    width:95%;
+    text-align:left;
 }
 #lieu2 {
     order: 4;
     margin-bottom: 10px;
     margin-left: 7%;
     margin-right: 25%;
-    width: 50%;
-    text-align: justify;
+    width:95%;
+    text-align:left;
 }
 #lieu3 {
     order: 6;
     margin-left: 7%;
     margin-right: 25%;
-    width: 50%;
-    text-align: justify;
+    width:95%;
+    text-align:left;
 }
     #propo {
     height: 150px;
-    margin-left:5%;
     margin-right:25%;
-    width:50%;
-    text-align:justify;
+    width:95%;
+    text-align:left;
 }
 
 #contact {
@@ -190,7 +189,7 @@ body {
     width: 100%;
     padding-bottom:10px;
     margin-left:5%;
-    text-align:justify;
+    text-align:left;
 }
 
 #reco {
@@ -228,7 +227,7 @@ body {
     }
 .titre2 {
     margin-left: 20px;
-	margin-top: 22px;
+    margin-bottom:0px;
 }
 .fa-graduation-cap{
     margin-left:7%;
@@ -252,8 +251,10 @@ body {
 #propo p {
 	padding-top: 0px;
 }
-.titre2 h2{
-	text-align:justify;
+.titre2 h2 {
+    text-align: left;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 .titre1 h2{
 	text-align:left;
