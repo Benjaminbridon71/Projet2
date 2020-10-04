@@ -28,7 +28,7 @@ body {
     width: 330px;   
 }
 #etudiant {
-    width:40%;
+    width:80%;
     padding-left:0px;
     margin-left:0px;
     font-size:10px;
@@ -58,15 +58,15 @@ body {
 }
 
 #formation1 {
-    width: 35%;
+    width: 70%;
 }
 
 #formation2 {
-    width: 35%;
+    width: 70%;
 }
 
 #formation3 {
-    width: 35%;
+    width: 70%;
 }
 #experience {
     width: 320px;
@@ -80,15 +80,15 @@ body {
     font-size:12px;
 }
 #lieu1 {
-    width: 35%;
+    width: 70%;
 }
 
 #lieu2 {
-    width: 35%;
+    width: 70%;
 }
 
 #lieu3 {
-    width: 35%;
+    width: 70%;
 }
 
 .experience1 {
@@ -113,16 +113,16 @@ body {
 
 
 #propo {
-    width: 50%;
+    width: 80%;
     margin-left:0px;
     padding-left:0px;
-    height:650px;
+    height:200px;
 }
 
 #activ {
     padding-left: 20px;
     height:150px;
-    width:50%;
+    width:80%;
 }
 #activ i{
     margin-top:15px;
@@ -136,3 +136,15 @@ body {
 #contact{
     width:60%;
 } 
+.fa-graduation-cap{
+    margin-left:0px;
+    padding-left:0px;
+}
+.fa-briefcase {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.fa-pencil-alt {
+    margin-left: 0px;
+    padding-left: 0px;
+}
