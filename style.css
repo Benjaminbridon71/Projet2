@@ -186,6 +186,9 @@ img {
     justify-content: flex-start;
     width: 210px;
 }
+    #dateformation h2 {
+        font-size: 15px;
+    }
 
 .date1 {
     display: flex;
@@ -305,6 +308,11 @@ img {
     justify-content: flex-start;
     width: 210px;
 }
+    #date-experience h2 {
+        font-size: 15px;
+        margin-top: 2px;
+        margin-bottom: 2px;
+    }
 
 .experience1 {
     display: flex;
